@@ -7,3 +7,6 @@ My first repository for learning Git and GitHub.
 - Commits and branches
 - Merging
 - Pull Requests
+
+- #Author
+- Aditya Sharma
